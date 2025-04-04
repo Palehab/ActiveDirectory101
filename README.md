@@ -20,4 +20,4 @@ Alternatively, you can download the tools from their original sources.
 - DSInternals v4.12
 
 # Full Course
-The full free course is now available on [YouTube](https://www.youtube.com/](https://www.youtube.com/playlist?list=PLyyAUp-Erl9WhBzp1ma2NzYQEb1nfQM1t). Check it out!
+The full free course is now available on [YouTube](https://www.youtube.com/playlist?list=PLyyAUp-Erl9WhBzp1ma2NzYQEb1nfQM1t). Check it out!
